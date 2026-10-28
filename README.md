@@ -1,2 +1,2 @@
 # Merging-PDFs
-Select multible PDF files and combine them into one
+Select multiple PDF files and combine them into one PDF file.
